@@ -1,0 +1,26 @@
+[
+    {
+        "nama": "Rasya",
+        "nomor_hp": "087832599242",
+        "durasi_pemakaian": "3 jam",
+        "pilihan_mobil": "BMW",
+        "totalTagihan": 62500,
+        "timestamp": 1719128124
+    },
+    {
+        "nama": "Muhammad",
+        "nomor_hp": "087832599234",
+        "durasi_pemakaian": "1 hari",
+        "pilihan_mobil": "Suzuki",
+        "totalTagihan": 1200000,
+        "timestamp": 1719128193
+    },
+    {
+        "nama": "Nurrasya",
+        "nomor_hp": "087832599242",
+        "durasi_pemakaian": "5 hari",
+        "pilihan_mobil": "BMW",
+        "totalTagihan": 25000000,
+        "timestamp": 1724034140
+    }
+]
